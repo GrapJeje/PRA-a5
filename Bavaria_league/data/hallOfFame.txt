@@ -1,0 +1,98 @@
+06/12/2024, Sonnega FC, Manderveen FC, 1-2, Wright
+24/12/2024, Sonnega FC, FC Warfhuizen, 2-2, van den Brink
+30/12/2024, Sonnega FC, Handel FC, 1-2, Bekbergen
+21/12/2024, Sonnega FC, Matsloot FC, 1-0, Bekbergen
+03/12/2024, Sonnega FC, Lokomotiv Moscow, 0-1, van Ginkel
+30/12/2024, Manderveen FC, FC Winterswijk Miste, 0-3, van Ginkel
+12/12/2024, Manderveen FC, Broeksterwâld FC, 5-5, van den Brink
+23/12/2024, Manderveen FC, Ajax, 3-5, van Ginkel
+09/12/2024, Manderveen FC, Matsloot FC, 5-3, Wright
+30/12/2024, Manderveen FC, Lokomotiv Moscow, 1-1, van Tuijl
+23/12/2024, Dalerpeel FC, Manderveen FC, 3-4, Jdotte
+18/12/2024, Dalerpeel FC, Oldenzijl FC, 5-4, Hoppenbrouwer
+04/12/2024, Dalerpeel FC, Real Kuinre, 3-3, van Ginkel
+10/12/2024, Meerstad United, Sonnega FC, 1-2, Hoppenbrouwer
+10/12/2024, Meerstad United, FC Warfhuizen, 1-2, Chrodtrud
+08/12/2024, Meerstad United, Lokomotiv Moscow, 0-1, Jdotte
+20/12/2024, FC Winterswijk Miste, Meerstad United, 5-4, Hoppenbrouwer
+25/12/2024, FC Winterswijk Miste, Broeksterwâld FC, 0-0, van de Elzas
+03/12/2024, FC Winterswijk Miste, Ajax, 1-4, Chrodtrud
+09/12/2024, FC Winterswijk Miste, Feyenoord, 3-1, Chrodtrud
+06/12/2024, Klarenbeek FC, Sonnega FC, 4-5, Jdotte
+19/12/2024, Klarenbeek FC, Manderveen FC, 0-4, van den Brink
+13/12/2024, Klarenbeek FC, Meerstad United, 3-4, Jdotte
+09/12/2024, Klarenbeek FC, Oldenzijl FC, 1-3, Jdotte
+22/12/2024, Klarenbeek FC, Handel FC, 2-3, Hoppenbrouwer
+28/12/2024, Klarenbeek FC, Leek FC, 2-5, van den Brink
+16/12/2024, Klarenbeek FC, Landhorst FC, 3-3, van den Brink
+22/12/2024, Broeksterwâld FC, Meerstad United, 3-1, Wright
+25/12/2024, Broeksterwâld FC, FC Warfhuizen, 4-2, Simons
+01/12/2024, Broeksterwâld FC, Handel FC, 3-3, Hoppenbrouwer
+30/12/2024, Broeksterwâld FC, Vaassen FC, 3-3, Wright
+15/12/2024, Liverpool, Sonnega FC, 0-2, van Ginkel
+06/12/2024, Liverpool, Manderveen FC, 0-5, Simons
+28/12/2024, Liverpool, Real Kuinre, 3-1, van Tuijl
+19/12/2024, Liverpool, Feyenoord, 4-0, Bekbergen
+19/12/2024, Liverpool, FC Strijensas, 1-3, Jdotte
+04/12/2024, Liverpool, Lokomotiv Moscow, 1-3, Wright
+08/12/2024, Oldenzijl FC, Manderveen FC, 0-1, van de Elzas
+04/12/2024, Oldenzijl FC, Klarenbeek FC, 0-4, van Ginkel
+28/12/2024, Oldenzijl FC, Real Kuinre, 0-3, Simons
+28/12/2024, Oldenzijl FC, Matsloot FC, 5-1, Jdotte
+23/12/2024, Ajax, Sonnega FC, 1-0, Hoppenbrouwer
+10/12/2024, Ajax, Dalerpeel FC, 5-2, van Tuijl
+25/12/2024, Ajax, Meerstad United, 2-0, Simons
+20/12/2024, Ajax, Broeksterwâld FC, 0-0, van de Elzas
+01/12/2024, Ajax, Real Kuinre, 5-3, Chrodtrud
+08/12/2024, Ajax, Handel FC, 5-0, van den Brink
+14/12/2024, FC Warfhuizen, Broeksterwâld FC, 5-5, van den Brink
+22/12/2024, FC Warfhuizen, Liverpool, 3-4, van Ginkel
+23/12/2024, FC Warfhuizen, Feyenoord, 2-2, van Ginkel
+12/12/2024, FC Warfhuizen, Vaassen FC, 1-3, Simons
+29/12/2024, FC Warfhuizen, Matsloot FC, 4-1, Chrodtrud
+18/12/2024, Real Kuinre, Manderveen FC, 1-4, Wright
+04/12/2024, Real Kuinre, FC Winterswijk Miste, 4-0, Simons
+27/12/2024, Real Kuinre, Liverpool, 3-5, van den Brink
+14/12/2024, Real Kuinre, Oldenzijl FC, 2-5, Wright
+09/12/2024, Real Kuinre, Handel FC, 5-4, Jdotte
+16/12/2024, Real Kuinre, Landhorst FC, 1-4, Hoppenbrouwer
+16/12/2024, Feyenoord, Sonnega FC, 0-5, van Ginkel
+15/12/2024, Feyenoord, Meerstad United, 4-0, van Tuijl
+07/12/2024, Feyenoord, FC Warfhuizen, 1-1, Bekbergen
+04/12/2024, Feyenoord, Vaassen FC, 5-2, van de Elzas
+20/12/2024, Feyenoord, Lokomotiv Moscow, 1-0, Hoppenbrouwer
+21/12/2024, Handel FC, FC Winterswijk Miste, 0-4, Chrodtrud
+19/12/2024, Handel FC, Broeksterwâld FC, 0-0, van den Brink
+09/12/2024, Handel FC, Feyenoord, 4-3, Hoppenbrouwer
+22/12/2024, Handel FC, FC Strijensas, 1-1, Chrodtrud
+01/12/2024, Handel FC, Lokomotiv Moscow, 2-0, Simons
+14/12/2024, Leek FC, Meerstad United, 0-5, Chrodtrud
+28/12/2024, Leek FC, FC Winterswijk Miste, 2-0, van Tuijl
+27/12/2024, Leek FC, Ajax, 0-4, Simons
+07/12/2024, FC Strijensas, Manderveen FC, 1-5, van Tuijl
+24/12/2024, FC Strijensas, Klarenbeek FC, 3-0, Wright
+24/12/2024, FC Strijensas, Oldenzijl FC, 1-3, van den Brink
+05/12/2024, FC Strijensas, Feyenoord, 4-1, Bekbergen
+13/12/2024, FC Strijensas, Lokomotiv Moscow, 1-5, Bekbergen
+12/12/2024, Vaassen FC, Broeksterwâld FC, 1-4, Wright
+25/12/2024, Vaassen FC, Ajax, 3-0, Bekbergen
+24/12/2024, Vaassen FC, Real Kuinre, 5-0, Bekbergen
+11/12/2024, Vaassen FC, Leek FC, 3-5, Hoppenbrouwer
+22/12/2024, Vaassen FC, FC Strijensas, 0-5, Bekbergen
+05/12/2024, Landhorst FC, Sonnega FC, 1-3, Jdotte
+10/12/2024, Landhorst FC, Liverpool, 1-3, van Tuijl
+04/12/2024, Landhorst FC, Ajax, 0-4, Chrodtrud
+08/12/2024, Landhorst FC, FC Warfhuizen, 3-5, Hoppenbrouwer
+02/12/2024, Landhorst FC, Handel FC, 2-5, van de Elzas
+13/12/2024, Matsloot FC, Sonnega FC, 2-3, van Tuijl
+19/12/2024, Matsloot FC, Meerstad United, 4-0, Jdotte
+15/12/2024, Matsloot FC, Broeksterwâld FC, 0-1, van Ginkel
+25/12/2024, Matsloot FC, Ajax, 0-5, Bekbergen
+07/12/2024, Matsloot FC, Feyenoord, 1-1, Chrodtrud
+01/12/2024, Matsloot FC, Handel FC, 5-4, van den Brink
+27/12/2024, Matsloot FC, FC Strijensas, 4-2, van Ginkel
+06/12/2024, Lokomotiv Moscow, Sonnega FC, 0-0, Chrodtrud
+16/12/2024, Lokomotiv Moscow, Klarenbeek FC, 2-1, Wright
+06/12/2024, Lokomotiv Moscow, Real Kuinre, 4-0, van de Elzas
+29/12/2024, Lokomotiv Moscow, Leek FC, 5-5, van Tuijl
+30/12/2024, Lokomotiv Moscow, Landhorst FC, 3-1, Simons
