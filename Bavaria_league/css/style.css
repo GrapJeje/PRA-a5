@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f5f5f5;
+}
+
+.wrapper {
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* ================================ Header ================================ */
+
+header h1 {
+    font-family: "Oswald", sans-serif;
+    text-transform: uppercase;
+}
+
+/* ================================ Intro ================================ */
+
+.introduction {
+    font-family: "PT Serif", serif;
+    padding-bottom: 30px;
+    font-size: 95%;
+}
+
+.introduction h3 {
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+/* ================================ Grid ================================ */
+
+.grid {
+    display: grid;
+    grid-gap: 40px;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.grid-item, 
+.grid-item-large {
+    background-color: #ffffff;
+    padding: 20px; 
+    border-radius: 15px;
+    text-align: center;
+}
+
+.grid-item-number {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.grid-item {
+    grid-column: span 1;
+    font-family: "Oswald", sans-serif;
+}
+
+.grid-item-large {
+    grid-column: span 2;
+    font-family: "PT Serif", serif;
+}
+
+.grid-item-large table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.grid-item-large h3 {
+    font-family: "Oswald", sans-serif;
+}
+
+.table-text-align-center {
+    text-align: center;
+}
+
+.table-text-align-right {
+    text-align: right;
+}
+
+th, td {
+    padding: 0 8px;
+}
+
+/* ================================ Footer ================================ */
+
+footer {
+    font-family: "PT Serif", serif;
+    padding-top: 15px;
+    font-size: 15px;
+    text-align: center;
+}

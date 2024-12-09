@@ -13,8 +13,6 @@ def total():
         fouls = data['overtredingen']
         totalFouls += int(fouls)
 
-    totalFile = open("./data/total.txt", "w", encoding = "UTF-8")
-    totalFile.write(f"{totalFouls}")
     return totalFouls
 
 def averageFoul():
@@ -64,7 +62,10 @@ def hallOfFame():
 
 def run():
     # Run the functions to calculate and write the data to the files.
-    total()
+    totalVar = total()
+    totalFile = open("./data/total.txt", "w", encoding = "UTF-8")
+    totalFile.write(f"{totalVar}")
+
     averageFoul()
     blackBook()
     hallOfFame()
